@@ -107,8 +107,6 @@ http://10.10.10.254:9099/udp/239.93.0.194:5140
 http://10.10.10.254:9099/udp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://10.10.10.254:9099/udp/239.93.0.80:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西农林
-http://10.10.10.254:9099/udp/239.93.0.100:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://10.10.10.254:9099/udp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
