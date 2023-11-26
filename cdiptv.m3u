@@ -119,9 +119,9 @@ http://10.10.10.254:9099/udp/239.93.0.108:5140
 http://10.10.10.254:9099/udp/239.93.42.49:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
 http://10.10.10.254:9099/udp/239.93.42.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="休闲", 来钓鱼吧 group-title="休闲",来钓吧
+#EXTINF:-1 tvg-id="" tvg-name="来钓鱼吧" tvg-logo="" group-title="休闲",来钓鱼吧
 http://10.10.10.254:9099/udp/239.93.42.8:5140
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="休闲", 快乐垂钓 group-title="休闲",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="休闲", 快乐垂钓
 http://10.10.10.254:9099/udp/239.93.1.151:5140
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="休闲", 天元围棋 group-title="休闲",天元围棋
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="休闲", 天元围棋 
 http://10.10.10.254:9099/udp/239.93.42.55:5140
