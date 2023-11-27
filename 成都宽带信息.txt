@@ -1,0 +1,11 @@
+宽带账号:           CD02888381683
+宽带密码：       112150
+
+option12：	9010919900700000E8ACADD1DDD1	字符串
+option60：	SCITV				字符串
+克隆MAC：	e8:ac:ad:d1:dd:d1
+
+UDPXY:		wan2(IPTV) 端口 ：9099 订阅周期 300秒	
+
+成都电信 IPTV 300+ 直播频道的组播地址表：
+https://raw.githubusercontent.com/gswangmd-gssi/iptv/main/cdiptv.m3u
